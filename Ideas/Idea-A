@@ -1,1 +1,4 @@
-
+EventFinder
+Create a dashboard where users can publish upcoming events. Also, enable an invitation feature through emails. To get a good list of upcoming events, use the Eventbrite api.
+Example:
+We can create this event finder for Tabassum care group or any other community.
